@@ -21,7 +21,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,docker,redis,prometheus,git,linux,bash,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,ts,py,js,html,css,postgres,redis,mongodb,sqlite,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,terraform,git,gitlab,linux,bash,vim,neovim,obsidian,)](https://skillicons.dev)
 
 ###
 
