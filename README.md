@@ -21,7 +21,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,react,js,html,css,ai,postgres,redis,mongodb,sqlite,openstack,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,terraform,git,gitlab,linux,bash,vim,neovim,lua,obsidian,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,ts,react,js,html,css,ai,postgres,redis,mongodb,sqlite,openstack,docker,kubernetes,kafka,rabbitmq,prometheus,grafana,terraform,git,gitlab,linux,bash,vim,neovim,lua,obsidian,postman,figma)](https://skillicons.dev)
 
 ###
 
